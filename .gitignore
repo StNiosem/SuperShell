@@ -1,0 +1,4 @@
+#Ignore binary files (ALWAYS COMPILE C/CPP CODE WITH ".out"/".out++" EXTENSIONS)
+bin/*
+*.out
+*.out++

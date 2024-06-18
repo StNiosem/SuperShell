@@ -12,6 +12,6 @@
 // Variables
 #define screenRes "screenkey.self.screenRes"
 
-void main() {
-
+int main() {
+    shellInit();
 }
