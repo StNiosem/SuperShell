@@ -7,9 +7,3 @@
 #define SHELL_FRAMEWORK_VERSION_INT 1
 #define SUPER_FRAMEWORK_VERSION_INT 1
 
-
-
-void shellFramework() {
-    printf("shellHandler v%s", SHELL_FRAMEWORK_VERSION_FULL);
-
-}

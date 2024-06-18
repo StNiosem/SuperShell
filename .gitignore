@@ -1,4 +1,12 @@
+#Ignore files without extensions, then UN-IGNORE DIRECTORIES AND FILES WITH EXTENSIONS
+*
+!*/
+!*.*
+
 #Ignore binary files (ALWAYS COMPILE C/CPP CODE WITH ".out"/".out++" EXTENSIONS)
 bin/*
 *.out
 *.out++
+
+
+main

@@ -20,5 +20,5 @@ void shellInit() {
 }
 
 void shellInputHandler() {
-	printf("Input Handler v%s", INPUT_HANDLER_VERSION_FULL);
+	printf("Input Handler v%s\n", INPUT_HANDLER_VERSION_FULL);
 }
