@@ -20,6 +20,6 @@ int main() {
     shellInit();
     shellInputHandler();
 
-    return 0;
+    return 1;
 }
 
